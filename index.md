@@ -1,2 +1,2 @@
-<title>MX Computer Technology Studio </title>
+#MX Computer Technology Studio
 Still developing. 

@@ -1,2 +1,5 @@
-# MX Computer Technology Studio
+---
+　　layout: default
+　　title: MX Computer Technology Studio 
+---
 Still developing. 

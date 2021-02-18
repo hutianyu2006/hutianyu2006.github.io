@@ -1,2 +1,2 @@
 # 胡天宇的小站
-<a herf='/vps'>简单使用你的VPS建站（PHP)</a>
+<a herf='https://hutianyu2006.github.io/vps'>简单使用你的VPS建站（PHP)</a>

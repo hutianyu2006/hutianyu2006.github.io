@@ -30,4 +30,4 @@ pacman -S php apache2
 service httpd start
 ```
 ## 测试
-这个简单，访问一下你的服务器的IP,我自己也在http://srv19270.blue.kundencontroller.de/ 搭建了一个，看见类似界面就对了。
+这个简单，访问一下你的服务器的IP。
